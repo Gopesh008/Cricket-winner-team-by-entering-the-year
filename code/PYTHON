@@ -50,3 +50,4 @@ elif champ == 2006 or champ == 2009:
     print("Australia")
 else:
     print("ICC Champions Trophy was not conducted")
+#hi gopesh was here
